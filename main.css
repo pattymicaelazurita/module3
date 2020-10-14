@@ -47,19 +47,19 @@ body {
 }
 
 #nav-list {
-    background-color: #e4af34;
+    background-color: #white;
 }
 
 #nav-list a {
     /*text-align: center;*/
     font-weight: bolder;
-    color: #282828;
+    color: #D385FF;
     font-size: 1.2em;
 }
 
 #nav-list a:hover {
-    color: #202020;
-    background-color: #fce29e;
+    color: #D385FF;
+    background-color: #white;
 }
 
 .navbar-header button.navbar-toggle,
@@ -75,14 +75,14 @@ body {
 
 #main-content {
     width: 92%;
-    margin-bottom: 30px;
+    margin-bottom: 10px;
 }
 
 #main-content h2 {
     font-size: 2.9em;
     font-weight: bold;
-    margin-top: 30px;
-    margin-bottom: 50px;
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
 
 #main-content h3 {
@@ -97,6 +97,6 @@ body {
     width: 100%;
     padding: 20px;
     background-color: #99ed7b;
-    margin-bottom: 60px;
+    margin-bottom: 10px;
     box-shadow: 0 0 80px #18580b;
 }
