@@ -66,7 +66,7 @@ li{
 }
 
 .menu-item:hover{
-	background-color: rgba(0,0,0,0.9);
+	background-color: #F5F5DC;
 	color: #F852D4;
 }
 
@@ -81,7 +81,7 @@ li{
 	width: auto;
 	height: auto;
 	color: #720C8E;
-	background-color: rgba(0,0,0,0.2);
+	background-color: #F5F5DC;
 	font-family: "Comic Sans MS", cursive, sans-serif;
 	padding: 20px;
 }
