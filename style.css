@@ -6,17 +6,17 @@
 
 .navbar{
 	border-radius: 0px;
-	background-color: rgba(0,0,0,0.8);
+	background-color: #F5F5DC;
 }
 
 .navbar-brand{
   font-size: 35px;
-  color: white;
+  color: #ECBDF9;
   padding-left: 25px;
 }
 
 .navbar-brand:hover{
-	color: white;
+	color: #ECBDF9;
 }
 
 .nav{
@@ -32,12 +32,12 @@
 }
 
 .navbar-toggle{
-	border: 2px solid white;
+	border: 2px solid #ECBDF9;
 	margin-right: 25px;
 }
 
 .icon-bar{
-	background-color: white;
+	background-color: #F5F5DC;
 }
 
 
@@ -59,9 +59,9 @@ li{
 	padding: 0;
 	margin: 0;
 	width: 100%;
-	background-color: white;
-	border-bottom: 1px solid black;
-	color: black;
+	background-color: #F5F5DC;
+	border-bottom: 1px solid #720C8E;
+	color: #720C8E;
 	display: block;
 }
 
@@ -80,7 +80,7 @@ li{
 	margin: 20px;
 	width: auto;
 	height: auto;
-	color: black;
+	color: #720C8E;
 	background-color: rgba(0,0,0,0.2);
 	font-family: "Comic Sans MS", cursive, sans-serif;
 	padding: 20px;
